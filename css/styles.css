@@ -1,16 +1,11 @@
-/*@import url(http://fonts.googleapis.com/css2?family=Lato:400,700); */
 
-/*@font-face {
-  font-family: tech_font;
-  src: local("tech_font");
-}*/
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&display=swap');
 </style>
 
 body {
 	color:#FFFFFF;
-	font-family: 'Lato', Thin;
+	font-family: 'Lato', Light;
 	height:100%;
 	width:100%;
 	margin:0;
@@ -26,7 +21,7 @@ h1 {
 	text-align:left;
 	padding-top:30px;
 	font-weight: 400;
-	font-family: 'Lato', Thin;
+	font-family: 'Lato', Light;
 	text-shadow: 0px 1px 1px rgba(0, 0, 255, 0.3);
 }
 .ie h1 {
@@ -53,7 +48,7 @@ h5 {
 	text-align:left;
 	padding-top:30px;
 	font-weight: 400;
-	font-family: 'Lato', Thin;
+	font-family: 'Lato', Light;
 	text-shadow: 0px 1px 1px rgba(0, 0, 255, 0.3);
 	color: #7b7b7b;
 /*	filter: dropshadow(color=#000000, offx=0, offy=3);
@@ -197,7 +192,7 @@ margin-bottom:30px;
   display: block;
   float: right;
 }
-.styled div {display: inline-block;font-family: 'Lato', Thin;color:#FFF;font-size: 80px;font-weight: 400;text-align: center;margin: 0 1px;width: 136px;padding: 10px 30px 53px;height: 100px;/* background: rgba(255, 255, 255, 0.18); */text-shadow: none;vertical-align: middle;border: 1px dashed rgba(255, 255, 255, 0.36);text-shadow: 1px 0px 2px rgba(12, 11, 11, 0.56);}
+.styled div {display: inline-block;font-family: 'Lato', Light;color:#FFF;font-size: 80px;font-weight: 400;text-align: center;margin: 0 1px;width: 136px;padding: 10px 30px 53px;height: 100px;/* background: rgba(255, 255, 255, 0.18); */text-shadow: none;vertical-align: middle;border: 1px dashed rgba(255, 255, 255, 0.36);text-shadow: 1px 0px 2px rgba(12, 11, 11, 0.56);}
 .styled div:last-child{/* border:none; */}
 #overlay{ 
 background: rgba(0, 0, 0, 0.04) url(../images/overlays/06.png) top left repeat;
