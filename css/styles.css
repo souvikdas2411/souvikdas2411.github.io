@@ -78,6 +78,7 @@ p, pre {
 	background-image: url('../img/demo-1-bg.jpg');
 	/*background-repeat: no-repeat;*/
 	/*background-attachment: fixed;*/
+	background-color: #000;
 }
 
 code {
